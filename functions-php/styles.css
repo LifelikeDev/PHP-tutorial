@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(12, 12, 24);
+  color: #fff;
+}
+
+p,
+main,
+section {
+  color: rgb(134, 248, 185);
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}
+
+article,
+h1,
+h2,
+h3,
+h4 {
+  color: rgb(247, 231, 109);
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+li {
+  list-style: none;
+}
