@@ -1,3 +1,3 @@
 # PHP-tutorial
 
-A collection of topics and related exercise files I've gone through while learning PHP
+A collection of topics and related exercise files which I've gone through while learning PHP
